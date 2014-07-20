@@ -1,6 +1,6 @@
 
 	The title of the story
-	By Eugene Yee
+	By Yena Chung & Eugene Yee
 
 This is the beginning of the greatest story that ever ...
 
@@ -8,7 +8,7 @@ This is the beginning of the greatest story that ever ...
 
 something interesting...
 
-
+and something else interesting
 
 
 
